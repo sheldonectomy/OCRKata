@@ -1,0 +1,2 @@
+# OCRKata
+OCR Kata
