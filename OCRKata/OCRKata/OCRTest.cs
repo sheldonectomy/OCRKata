@@ -152,7 +152,7 @@ namespace OCRKata
             Assert.AreEqual("123456789", _account.Number);
         }
 
-        private string digits[] = new string
+       
 
     }
 }
