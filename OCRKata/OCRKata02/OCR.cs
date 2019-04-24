@@ -77,7 +77,6 @@ namespace OCRKata02
             }
 
             var output = new StringBuilder();
-            var illegible = false;
             var digitCount = line.Length / 9;
             for(int i = 0; i < digitCount; i++)
             {
